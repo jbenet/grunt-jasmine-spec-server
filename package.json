@@ -1,6 +1,6 @@
 {
   "name": "grunt-jasmine-spec-server",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a server to run jasmine spec files selectively",
   "bugs": {
     "url": "https://github.com/jbenet/grunt-jasmine-spec-server/issues"
@@ -22,7 +22,7 @@
   },
   "author": "Juan Batiz-Benet <juan@benet.ai>",
   "license": "MIT",
-  "readme": "README.md",
+  "readmeFilename": "README.md",
   "devDependencies": {
     "grunt": "~0.3.17",
     "grunt-contrib-clean": "~0.3.1",
